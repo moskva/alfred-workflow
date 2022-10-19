@@ -5,3 +5,4 @@
 3. [Open iTerm2 tab or Terminal window in the frontmost Finder window's directory](https://github.com/invious/alfred3-terminal-here)
 4. [Youdao Translator: Alfred Youdao Translate Workflow](https://github.com/wensonsmith/YoudaoTranslator)
 5. [Time Zones Converter](https://github.com/jaroslawhartman/TimeZones-Alfred)
+6. [DEVONthink Search: Powerful Tool for Searching in DEVONthink](https://github.com/mpco/AlfredWorkflow-DEVONthink-Search)
