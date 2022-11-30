@@ -7,3 +7,4 @@
 5. [Time Zones Converter](https://github.com/jaroslawhartman/TimeZones-Alfred)
 6. [DEVONthink Search: Powerful Tool for Searching in DEVONthink](https://github.com/mpco/AlfredWorkflow-DEVONthink-Search)
 7. [Alfred 1password workflow: Search and open 1Password items](https://github.com/alfredapp/1password-workflow#readme)
+8. [Alfred Workflow to resize an image](https://github.com/Acidham/alfred-resize-image)
