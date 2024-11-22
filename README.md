@@ -9,3 +9,4 @@
 7. [Alfred 1password workflow: Search and open 1Password items](https://github.com/alfredapp/1password-workflow#readme)
 8. [Alfred Workflow to resize an image](https://github.com/Acidham/alfred-resize-image)
 9. [DeepL Alfred Workflow](https://github.com/AlexanderWillner/deepl-alfred-workflow2)
+10. [alfred-reminders: Manages reminders in Reminders.app](https://github.com/surrealroad/alfred-reminders)
